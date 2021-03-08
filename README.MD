@@ -10,3 +10,4 @@ noe helt annet
 
 Nå er det mat igjen 
 noen feil
+noe helt riktig 
