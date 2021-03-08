@@ -5,3 +5,4 @@
 glemte å si god helg 
 
 Nå er det snart mandag 
+noen galt
